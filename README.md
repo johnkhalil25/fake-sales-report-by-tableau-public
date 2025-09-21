@@ -1,0 +1,2 @@
+My first project using Tableau Public was built with dummy data for training purposes. The project aims to discuss the development of sales over the months, along with an analysis of the number of sales per product, the total cost per department, and the types of executed orders. It also includes an analysis of sales across different countries, in addition to a set of performance indicators that highlight the total orders, total sales, and total quantities requested.
+
